@@ -1,0 +1,79 @@
+environment.systemPackages = [
+    firefox
+    android-tools
+    fish
+    gzip
+    nmap
+    nodejs
+    p7zip
+    scrcpy
+    brave
+    emacs29
+    neovim
+    vscodium
+    thonny
+    spotify
+    qbittorrent
+    htop
+    librewolf
+    keepassxc
+    flameshot
+    nomacs
+    discord
+    libsForQt5.kdeconnect-kde
+    thunderbird
+    uget
+    uget-integrator
+    zoom-us
+    mpv
+    gparted
+    vim
+    tmux
+    wget
+    dmenu
+    neofetch
+    autojump
+    cargo
+    celluloid
+    dwm
+    dunst
+    eww
+    flatpak
+    fontconfig
+    freetype
+    gcc
+    git
+    gnugrep
+    gnumake
+    alacritty
+    libverto
+    nfs-utils
+    ninja
+    openssl
+    pavucontrol
+    picom
+    powershell
+    python3Full
+    python.pkgs.pip
+    ripgrep
+    rofi
+    sxhkd
+    st
+    stdenv
+    swaycons
+    terminus-nerdfont
+    tldr
+    trash-cli
+    unzip
+    variety
+    xclip
+    xfce.thunar
+xorg.libX11
+xorg.libX11.dev
+xorg.libxcb
+xorg.libXft
+xorg.libXinerama
+xorg.xinit
+xorg.xinput
+
+  ];
